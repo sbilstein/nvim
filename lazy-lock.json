@@ -17,5 +17,6 @@
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
   "schemastore.nvim": { "branch": "main", "commit": "ea5687d7e8af3ce6678dd03d3a1bd109b5c618b7" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
-  "toggleterm.nvim": { "branch": "main", "commit": "50ea089fc548917cc3cc16b46a8211833b9e3c7c" }
+  "toggleterm.nvim": { "branch": "main", "commit": "50ea089fc548917cc3cc16b46a8211833b9e3c7c" },
+  "vim-rzip": { "branch": "master", "commit": "f65400fed27b27c7cff7ef8d428c4e5ff749bf28" }
 }
